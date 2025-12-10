@@ -1,0 +1,5 @@
+*.csv
+*.png
+*.py
+greedy/greedy_datasets
+greedy/greedy
